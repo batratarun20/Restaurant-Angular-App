@@ -1,0 +1,48 @@
+{
+  "restaurant": [
+    {
+      "name": "KFC",
+      "email": "Royal Oak",
+      "address": "onehuna@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Mcd",
+      "email": "41 Namata Road, Royal Oak",
+      "address": "abc@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Indian",
+      "email": "indian@gmail.com",
+      "address": "Alberta",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "BurgerKing",
+      "email": "abc@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "PizzaHut",
+      "email": "def@gmail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "Nando",
+      "email": "tarun@gmail.com",
+      "password": "34567",
+      "id": 3
+    },
+    {
+      "name": "Italian",
+      "email": "ref@gmail.com",
+      "password": "12345",
+      "id": 4
+    }
+  ]
+}
